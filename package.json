@@ -1,0 +1,23 @@
+{
+  "name": "w-zuoye-jinyongxiaoshuo",
+  "version": "1.0.0",
+  "description": "SPA作业一：金庸小说介绍电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujinya2017/w-zuoye-jinyongxiaoshuo.git"
+  },
+  "keywords": [],
+  "author": "wujinya2017",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wujinya2017/w-zuoye-jinyongxiaoshuo/issues"
+  },
+  "homepage": "https://github.com/wujinya2017/w-zuoye-jinyongxiaoshuo#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
